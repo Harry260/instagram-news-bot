@@ -1,0 +1,7 @@
+{
+    "username": "YOUR_INSTAGRAM_USERNAME",
+    "password": "YOUR_INSTAGRAM_PASSWORS",
+    "interval": "INTERVAL_CRON",
+    "category": "NEWS_CATEGORY",
+    "discord_log_webhook": "DISCORD_WEBHOOK_URL"
+}
